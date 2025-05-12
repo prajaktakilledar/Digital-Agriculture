@@ -1,1 +1,2 @@
 # Digital-Agriculture
+Digital agriculture integrates modern technologies into farming to improve crop productivity and resource management. By using sensors (soil moisture, rain, temperature, humidity, LDR) and microcontrollers like Arduino, various agricultural tasks such as irrigation, weather protection, and environmental monitoring are automated. The system ensures optimal water usage, protects crops from heavy rain and heat, and maintains the required humidity and light intensity, thus promoting smart and sustainable farming practices with minimal manual intervention.
